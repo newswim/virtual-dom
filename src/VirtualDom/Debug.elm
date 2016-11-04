@@ -476,9 +476,7 @@ body {
 
 #values {
   display: block;
-  float: left;
   height: 100%;
-  width: calc(100% - 30ch);
   margin: 0;
   overflow: auto;
   cursor: default;
