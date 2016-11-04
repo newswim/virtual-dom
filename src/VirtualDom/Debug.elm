@@ -491,6 +491,8 @@ body {
   height: 100%;
   color: white;
   background-color: rgb(61, 61, 61);
+  overflow-x: auto;
+  resize: horizontal;
 }
 
 .debugger-sidebar-controls {
